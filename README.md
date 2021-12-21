@@ -1,2 +1,2 @@
 # MyPortfolio
-Personal portfolio website build by react.js, node.js  
+Personal portfolio website built by react.js, node.js  
